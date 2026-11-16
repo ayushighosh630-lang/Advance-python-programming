@@ -1,0 +1,5 @@
+Hello, my name is Ayushi.
+I am a Computer Science student.
+I am learning Python programming.
+File handling is an important concept.
+Python is easy to learn.
